@@ -45,22 +45,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,593 · **Forks**: 98 · **Open issues**: 94 · **Contributors**: 27
+- **Stars**: 3,593 · **Forks**: 97 · **Open issues**: 94 · **Contributors**: 27
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 96 · **Open PRs**: 15 · **Closed issues**: 59 · **Open issues**: 35 · **Commits**: 241
+- **Releases**: 14 · **Merged PRs**: 96 · **Open PRs**: 14 · **Closed issues**: 59 · **Open issues**: 35 · **Commits**: 241
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-08-20 | 0 | 0 | 0 | 0 | 2 | 0 |
-| 90d | 2026-07-21 | 0 | 0 | 0 | 0 | 2 | 0 |
-| last180d | 2026-04-22 | 0 | 0 | 1 | 0 | 2 | 0 |
-| 360d | 2025-10-24 | 0 | 0 | 2 | 0 | 2 | 0 |
-| last720d | 2024-10-29 | 0 | 0 | 5 | 2 | 12 | 0 |
+| 30d | 2026-09-20 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-08-21 | 0 | 0 | 0 | 0 | 2 | 0 |
+| 90d | 2026-07-22 | 0 | 0 | 0 | 0 | 2 | 0 |
+| last180d | 2026-04-23 | 0 | 0 | 1 | 0 | 2 | 0 |
+| 360d | 2025-10-25 | 0 | 0 | 1 | 0 | 2 | 0 |
+| last720d | 2024-10-30 | 0 | 0 | 4 | 2 | 12 | 0 |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for silicon lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:28:32Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T04:38:36Z._
